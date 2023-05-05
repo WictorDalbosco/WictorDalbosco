@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/WictorDalbosco/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact&)](https://github.com/WictorDalbosco/github-readme-stats" />
 </a>

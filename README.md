@@ -6,3 +6,4 @@
   <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact" />
 </a>
 
+![Snake animation](https://github.com/WictorDalbosco/WictorDalbosco/blob/output/github-contribution-grid-snake.svg)

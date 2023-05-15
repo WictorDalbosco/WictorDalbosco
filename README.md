@@ -9,7 +9,7 @@
     <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
   
-  <img align="right" height="160" alt="Wictor-yoda" style="vertical-align: top" src="https://github.com/WictorDalbosco/WictorDalbosco/blob/main/giphy.gif">
+  <img align="right" height="140" alt="Wictor-yoda" style="vertical-align: top" src="https://github.com/WictorDalbosco/WictorDalbosco/blob/main/giphy.gif">
      
 
 </div> 

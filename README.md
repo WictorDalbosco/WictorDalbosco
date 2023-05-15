@@ -6,10 +6,10 @@
   </a>
 
   <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
-    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact" />
+    <img align="right" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
   
-  <img align="right" height="140" alt="Wictor-yoda" style="vertical-align: top" src="https://github.com/WictorDalbosco/WictorDalbosco/blob/main/giphy.gif">
+ 
      
 
 </div> 
@@ -31,7 +31,7 @@
       <img align="center" alt="Wictor-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
    
-
+ <img align="right" height="140" alt="Wictor-yoda" style="vertical-align: top" src="https://github.com/WictorDalbosco/WictorDalbosco/blob/main/giphy.gif">
   
 </div>
 

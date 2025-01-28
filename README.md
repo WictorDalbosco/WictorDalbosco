@@ -15,6 +15,8 @@
 <div style="display: inline_block"><br>
       <img  align="left" alt="Wictor-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="left" alt="Wictor-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="left" alt="Wictor-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="left" alt="Wictor-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
